@@ -4,22 +4,24 @@
 [![Docs.rs](https://docs.rs/rust-lang-change-aggregator/badge.svg)](https://docs.rs/rust-lang-change-aggregator)
 [![CI](https://github.com/yourarj/rust-lang-change-aggregator/workflows/CI/badge.svg)](https://github.com/yourarj/rust-lang-change-aggregator/actions)
 
+### NOTE: I'm explicitely keeping it single threaded and sequential. Don't want stress out rust blog. 💖 for 🦀.
+
 ## Installation
 
 ### Cargo
 
-* Install the rust toolchain in order to have cargo installed by following
+- Install the rust toolchain in order to have cargo installed by following
   [this](https://www.rust-lang.org/tools/install) guide.
-* run `cargo install rust-lang-change-aggregator`
+- run `cargo install rust-lang-change-aggregator`
 
 ## License
 
 Licensed under either of
 
- * Apache License, Version 2.0
-   ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
- * MIT license
-   ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+- Apache License, Version 2.0
+  ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+- MIT license
+  ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 
 at your option.
 
