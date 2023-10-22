@@ -1,0 +1,11 @@
+[package]
+name = "rust-lang-change-aggregator"
+version = "0.1.0"
+edition = "2021"
+description = "An easy tool to list change aggregator. It helps list changes introduced in rust lang in one place"
+repository = "https://github.com/yourarj/rust-lang-change-aggregator"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
