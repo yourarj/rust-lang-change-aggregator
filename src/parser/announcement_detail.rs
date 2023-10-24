@@ -30,4 +30,3 @@ pub async fn parse_announcement_detail(
 
   Ok(map)
 }
-
