@@ -1,6 +1,6 @@
 [package]
 name = "rust-lang-change-aggregator"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 description = "An easy tool to list change aggregator. It helps list changes introduced in rust lang in one place"
 repository = "https://github.com/yourarj/rust-lang-change-aggregator"
