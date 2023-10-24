@@ -1,3 +1,4 @@
 //! dto
 
-pub mod annoucement;
+pub mod announcement;
+pub mod announcement_detail;
